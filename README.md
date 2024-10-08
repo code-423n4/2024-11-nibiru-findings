@@ -1,4 +1,4 @@
-# [Sponsorname] Audit
+# Nibiru Audit
 
 Audit findings are submitted to this repo.
 
