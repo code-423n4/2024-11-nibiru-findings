@@ -1,0 +1,8 @@
+{
+  "contest": 453,
+  "handle": "shaflow2",
+  "risk": "2",
+  "title": "The `bankBalance` function failed to handle errors correctly.",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2024-11-nibiru-findings/issues/5"
+}
