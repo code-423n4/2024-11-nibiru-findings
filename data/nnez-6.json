@@ -1,0 +1,8 @@
+{
+  "contest": 453,
+  "handle": "nnez",
+  "risk": "2",
+  "title": "Transaction value inconsistency between execution and block data due to value truncation might lead to incorrect data query",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2024-11-nibiru-findings/issues/6"
+}
