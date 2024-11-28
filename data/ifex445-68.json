@@ -1,0 +1,10 @@
+{
+  "contest": 453,
+  "handle": "ifex445",
+  "risk": "2",
+  "title": "Incompatibility in sendToBank Function with Tokens Lacking Transfer Response",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2024-11-nibiru-findings/issues/68",
+  "originalIssueId": 59,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-11-nibiru-validation/issues/59"
+}
