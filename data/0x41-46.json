@@ -1,0 +1,10 @@
+{
+  "contest": 453,
+  "handle": "0x41",
+  "risk": "2",
+  "title": "Gas used mismatch in failed contract calls can lead to wrong gas deductions",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2024-11-nibiru-findings/issues/46",
+  "originalIssueId": 22,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-11-nibiru-validation/issues/22"
+}
