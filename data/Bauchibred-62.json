@@ -1,0 +1,10 @@
+{
+  "contest": 453,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "USDT and similar tokens that do not return boolean values would not work",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2024-11-nibiru-findings/issues/62",
+  "originalIssueId": 166,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-11-nibiru-validation/issues/166"
+}
