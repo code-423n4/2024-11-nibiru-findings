@@ -1,0 +1,10 @@
+{
+  "contest": 453,
+  "handle": "gh8eo",
+  "risk": "3",
+  "title": "Vesting Account Preemption Attack Preventing Future Contract Deployment",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2024-11-nibiru-findings/issues/60",
+  "originalIssueId": 2,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-11-nibiru-validation/issues/2"
+}
