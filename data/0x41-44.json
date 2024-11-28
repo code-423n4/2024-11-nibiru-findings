@@ -1,0 +1,10 @@
+{
+  "contest": 453,
+  "handle": "0x41",
+  "risk": "2",
+  "title": "Inconsistent Fee Denomination Handling in Transaction Validation and Building",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2024-11-nibiru-findings/issues/44",
+  "originalIssueId": 24,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-11-nibiru-validation/issues/24"
+}
