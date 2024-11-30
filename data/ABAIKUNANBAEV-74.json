@@ -1,0 +1,10 @@
+{
+  "contest": 453,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "3",
+  "title": "MaxPriorityFeePerGas and MaxFeePerGas are specified for a user which is not correct",
+  "issueId": 74,
+  "issueUrl": "https://github.com/code-423n4/2024-11-nibiru-findings/issues/74",
+  "originalIssueId": 80,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-11-nibiru-validation/issues/80"
+}
