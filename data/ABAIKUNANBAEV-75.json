@@ -1,0 +1,10 @@
+{
+  "contest": 453,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "3",
+  "title": "effectiveGasPriceDec does not depend on the user and uses hardcoded parameter leading to a potential tx revert",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2024-11-nibiru-findings/issues/75",
+  "originalIssueId": 79,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-11-nibiru-validation/issues/79"
+}
