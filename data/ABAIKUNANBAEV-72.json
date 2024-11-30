@@ -1,0 +1,10 @@
+{
+  "contest": 453,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "Coinbase fees are not transferred to the coinbase address deviating from the standard execution client spec",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2024-11-nibiru-findings/issues/72",
+  "originalIssueId": 82,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-11-nibiru-validation/issues/82"
+}
