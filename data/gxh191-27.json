@@ -2,7 +2,7 @@
   "contest": 453,
   "handle": "gxh191",
   "risk": "3",
-  "title": "Potentially sensitive issue - disclosed privately again",
+  "title": "Bypassing Validation for Nested MsgEthereumTx in MsgExec",
   "issueId": 27,
   "issueUrl": "https://github.com/code-423n4/2024-11-nibiru-findings/issues/27",
   "originalIssueId": 117,
